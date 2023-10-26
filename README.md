@@ -1,11 +1,11 @@
 # Investigando a Pobreza no Brasil - 1 Desafio de Ciência de Dados Puc Minas
 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto. Lembrando que o objeto é desenvolver um sistema inteligente. Você deve mencionar o produto que está sendo desenvolvido, e não o que se espera obter com este produto.
+O objetivo é criar uma apresentação visual abrangente para qualificar a pobreza infantil no Brasil. Utilizando análise de dados e visualizações gráficas, a apresentação irá destacar as principais métricas, tendências e correlações regionais. Isso fornecerá insights acionáveis para formuladores de políticas e organizações sociais.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Cláudio Augusto Novaes Gontijo
+* 
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
