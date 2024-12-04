@@ -5,17 +5,16 @@ O objetivo é criar uma apresentação visual abrangente para qualificar a pobre
 ## Integrantes
 
 * Cláudio Augusto Novaes Gontijo
-* 
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Henri Ramos
+* Wilson Gonzaga
 
 ## Professor
 
-* Nome completo do professor (Prof. Hugo Bastos de Paula)
+* Prof. Hugo Bastos de Paula
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+- A completar
 
 ## Histórico de versões
 
@@ -25,4 +24,3 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
     * Indução do primeiro modelo do agente inteligente.
 * 0.0.1
     * Trabalhando na preparação dos dados.
-
